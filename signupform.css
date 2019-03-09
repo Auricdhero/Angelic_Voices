@@ -1,0 +1,10 @@
+@charset "utf-8";
+body h1{
+	text-align: center;
+	margin: 15px;
+}
+body form label{
+	margin: 20px;
+	padding-left: 370px;
+	margin-top: 10px;
+}
